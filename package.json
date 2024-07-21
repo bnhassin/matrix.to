@@ -75,7 +75,7 @@
         "lint-staged": "^10.2.7",
         "node-sass": "^4.14.1",
         "prettier": "^2.0.5",
-        "storybook-addon-designs": "^5.4.0",
+        "storybook-addon-designs": "^6.0.0",
         "ts-jest": "^26.1.4",
         "typescript": "~3.7.2"
     }
