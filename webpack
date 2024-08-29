@@ -1,0 +1,3 @@
+npm install --save-dev webpack@next
+#25 or a specific tag/branch
+npm install --save-dev webpack/webpack#<tagname/
